@@ -1,0 +1,1 @@
+print("Qeydiyyatdan keçildi")
